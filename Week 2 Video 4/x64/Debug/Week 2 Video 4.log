@@ -1,0 +1,4 @@
+﻿  Week 2 Video 4.cpp
+C:\Users\Ben\Desktop\CG Spectrum\Week 2\Week 2 Video 4\Week 2 Video 4\Week 2 Video 4.cpp(18,17): warning C4101: 'hugeDistance': unreferenced local variable
+C:\Users\Ben\Desktop\CG Spectrum\Week 2\Week 2 Video 4\Week 2 Video 4\Week 2 Video 4.cpp(17,24): warning C4101: 'betterAge': unreferenced local variable
+  Week 2 Video 4.vcxproj -> C:\Users\Ben\Desktop\CG Spectrum\Week 2\Week 2 Video 4\x64\Debug\Week 2 Video 4.exe
